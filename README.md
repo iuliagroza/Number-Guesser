@@ -1,5 +1,7 @@
 ## Number Guessr
 
+** Archived Project ** <br>
+
 Number Guessr is a human vs. computer web game. Your goal is your guessed number to be closer to the target number than the computer's guess.
 
 ### Instructions:
