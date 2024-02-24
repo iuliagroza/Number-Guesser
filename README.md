@@ -1,6 +1,6 @@
-## Number Guessr
+# Number Guessr
 
-**Archived Project** <br>
+## NOTE: The development of this project is discontinued as this repository has been archived
 
 Number Guessr is a human vs. computer web game. Your goal is your guessed number to be closer to the target number than the computer's guess.
 
@@ -14,4 +14,4 @@ Click "Make a Guess" to submit your guess and see who won the round.
 **STEP 3**
 Click "Next Round" to play again.
 
-**© Iulia Groza**
+#### © Iulia Groza
